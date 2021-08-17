@@ -12,4 +12,4 @@ This website uses the Datamuse and Dictionary APIs to provide you with:
 ![Second screenshot of the webpage](./assets/Capture2.PNG)
 
 Link to the web app:
-PLACEHOLDER LINK
+https://drayleeper.github.io/coding-bootcamp/
